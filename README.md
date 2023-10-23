@@ -66,4 +66,4 @@ En esta sección, se define el volumen "db_data", que se utiliza para persistir 
 
 ## WordPress en funcionamiento
 
-![Wordpress](https://ibb.co/12XTnpW)
+![Wordpress](/home/dam2/readmeDockerCompose/images/Screenshot_20231023_102336.png)
