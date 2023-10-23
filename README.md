@@ -1,5 +1,15 @@
 # Docker Compose - Wordpress
 
+## Pasos de instalación
+
+1. En **Visual Studio Code**, creamos el proyecto `docker-compose.yml`.
+
+2. Escribimos los parámetros deseados. En mi caso, más abajo muestro mi archivo `.yml`.
+
+3. En la terminal, nos movemos al directorio en el que está situado el archivo y ejecutamos el comando `docker compose up -d`.
+
+4. Nos dirigimos a nuestro WordPress en nuestro navegador y llevamos a cabo la configuración inicial.
+
 ## Archivo .yml
 
 ```version: '3.3'
